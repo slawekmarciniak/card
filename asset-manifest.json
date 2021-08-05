@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/card/static/css/main.d0409880.chunk.css",
+    "main.js": "/card/static/js/main.ff6c8e4b.chunk.js",
+    "main.js.map": "/card/static/js/main.ff6c8e4b.chunk.js.map",
+    "runtime-main.js": "/card/static/js/runtime-main.118e4327.js",
+    "runtime-main.js.map": "/card/static/js/runtime-main.118e4327.js.map",
+    "static/js/2.a018dbea.chunk.js": "/card/static/js/2.a018dbea.chunk.js",
+    "static/js/2.a018dbea.chunk.js.map": "/card/static/js/2.a018dbea.chunk.js.map",
+    "static/js/3.ce78a3e5.chunk.js": "/card/static/js/3.ce78a3e5.chunk.js",
+    "static/js/3.ce78a3e5.chunk.js.map": "/card/static/js/3.ce78a3e5.chunk.js.map",
+    "index.html": "/card/index.html",
+    "static/css/main.d0409880.chunk.css.map": "/card/static/css/main.d0409880.chunk.css.map",
+    "static/js/2.a018dbea.chunk.js.LICENSE.txt": "/card/static/js/2.a018dbea.chunk.js.LICENSE.txt",
+    "static/media/style.css": "/card/static/media/paella.90df5922.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.118e4327.js",
+    "static/js/2.a018dbea.chunk.js",
+    "static/css/main.d0409880.chunk.css",
+    "static/js/main.ff6c8e4b.chunk.js"
+  ]
+}
