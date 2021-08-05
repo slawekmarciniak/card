@@ -5,8 +5,8 @@ const Icons = ({ click, isButtonActive }) => {
 
   return (
     <div className="icons">
-      <i class="icon heart far fa-heart"></i>
-      <i class="icon share fas fa-share-alt"></i>
+      <i className="icon heart far fa-heart"></i>
+      <i className="icon share fas fa-share-alt"></i>
 
       <IconButton
         className="buttonActive"
@@ -14,7 +14,7 @@ const Icons = ({ click, isButtonActive }) => {
         variant="contained"
         color="primary"
       >
-        <i class={`icon fas arrow fa-chevron-down ${nameClass}`}></i>
+        <i className={`icon fas arrow fa-chevron-down ${nameClass}`}></i>
       </IconButton>
     </div>
   );
