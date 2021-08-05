@@ -1,0 +1,36 @@
+
+div.avatar {
+    background-color: red;
+    color: white;
+    line-height: 40px;
+    width: 40px;
+    text-align: center;
+    border-radius: 50%;
+    margin: 10px 10px 0 10px
+}
+
+div.headerContainer {
+    height: 240px;
+}
+
+div.titleContainer {
+    display: flex;
+    height: 60px;
+}
+
+div.titleDateContainer {
+    display: flex;
+    flex-direction: column;
+    justify-content:start;
+    padding-top: 15px;
+    font-size: 15px;
+}
+
+div.pictureContainer {
+    height: 180px;
+    background-image: url('./Components/paella.jpg');
+    overflow: hidden;
+    background-position: center;
+    background-size: cover;
+
+}
